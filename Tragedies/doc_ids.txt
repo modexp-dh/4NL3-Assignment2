@@ -1,0 +1,153 @@
+Antony and Cleopatra::ACT_2::SC_7
+Antony and Cleopatra::ACT_3::SC_1
+Antony and Cleopatra::ACT_3::SC_2
+Antony and Cleopatra::ACT_3::SC_3
+Antony and Cleopatra::ACT_3::SC_4
+Antony and Cleopatra::ACT_3::SC_5
+Antony and Cleopatra::ACT_3::SC_6
+Antony and Cleopatra::ACT_3::SC_7
+Antony and Cleopatra::ACT_3::SC_8
+Antony and Cleopatra::ACT_3::SC_9
+Antony and Cleopatra::ACT_3::SC_10
+Antony and Cleopatra::ACT_3::SC_11
+Antony and Cleopatra::ACT_3::SC_12
+Antony and Cleopatra::ACT_3::SC_13
+Antony and Cleopatra::ACT_4::SC_1
+Antony and Cleopatra::ACT_4::SC_2
+Antony and Cleopatra::ACT_4::SC_3
+Antony and Cleopatra::ACT_4::SC_4
+Antony and Cleopatra::ACT_4::SC_5
+Antony and Cleopatra::ACT_4::SC_6
+Antony and Cleopatra::ACT_4::SC_7
+Antony and Cleopatra::ACT_4::SC_8
+Antony and Cleopatra::ACT_4::SC_9
+Antony and Cleopatra::ACT_4::SC_10
+Antony and Cleopatra::ACT_4::SC_11
+Antony and Cleopatra::ACT_4::SC_12
+Antony and Cleopatra::ACT_4::SC_13
+Antony and Cleopatra::ACT_4::SC_14
+Antony and Cleopatra::ACT_4::SC_15
+Antony and Cleopatra::ACT_5::SC_1
+Antony and Cleopatra::ACT_5::SC_2
+Coriolanus::ACT_I::SC_I
+Coriolanus::ACT_I::SC_II
+Coriolanus::ACT_I::SC_III
+Coriolanus::ACT_I::SC_IV
+Coriolanus::ACT_I::SC_V
+Coriolanus::ACT_I::SC_VI
+Coriolanus::ACT_I::SC_VII
+Coriolanus::ACT_I::SC_VIII
+Coriolanus::ACT_I::SC_IX
+Coriolanus::ACT_I::SC_X
+Coriolanus::ACT_II::SC_I
+Coriolanus::ACT_II::SC_II
+Coriolanus::ACT_II::SC_III
+Coriolanus::ACT_III::SC_I
+Coriolanus::ACT_III::SC_II
+Coriolanus::ACT_III::SC_III
+Coriolanus::ACT_IV::SC_I
+Coriolanus::ACT_IV::SC_II
+Coriolanus::ACT_IV::SC_III
+Coriolanus::ACT_IV::SC_IV
+Coriolanus::ACT_IV::SC_V
+Coriolanus::ACT_IV::SC_VI
+Coriolanus::ACT_IV::SC_VII
+Coriolanus::ACT_V::SC_I
+Coriolanus::ACT_V::SC_II
+Coriolanus::ACT_V::SC_III
+Coriolanus::ACT_V::SC_IV
+Coriolanus::ACT_V::SC_V
+Coriolanus::ACT_V::SC_VI
+Hamlet::ACT_V::SC_II
+Hamlet::ACT_I::SC_I
+Hamlet::ACT_I::SC_II
+Hamlet::ACT_I::SC_III
+Hamlet::ACT_I::SC_IV
+Hamlet::ACT_I::SC_V
+Hamlet::ACT_II::SC_I
+Hamlet::ACT_II::SC_II
+Hamlet::ACT_III::SC_I
+Hamlet::ACT_III::SC_II
+Hamlet::ACT_III::SC_III
+Hamlet::ACT_III::SC_IV
+Hamlet::ACT_IV::SC_I
+Hamlet::ACT_IV::SC_II
+Hamlet::ACT_IV::SC_III
+Hamlet::ACT_IV::SC_IV
+Hamlet::ACT_IV::SC_V
+Hamlet::ACT_IV::SC_VI
+Hamlet::ACT_IV::SC_VII
+Hamlet::ACT_V::SC_I
+Hamlet::ACT_V::SC_II
+Julius Caesar::ACT_V::SC_V
+Julius Caesar::ACT_I::SC_I
+Julius Caesar::ACT_I::SC_II
+Julius Caesar::ACT_I::SC_III
+Julius Caesar::ACT_II::SC_I
+Julius Caesar::ACT_II::SC_II
+Julius Caesar::ACT_II::SC_III
+Julius Caesar::ACT_II::SC_IV
+Julius Caesar::ACT_III::SC_I
+Julius Caesar::ACT_III::SC_II
+Julius Caesar::ACT_III::SC_III
+Julius Caesar::ACT_IV::SC_I
+Julius Caesar::ACT_IV::SC_II
+Julius Caesar::ACT_IV::SC_III
+Julius Caesar::ACT_V::SC_I
+Julius Caesar::ACT_V::SC_II
+Julius Caesar::ACT_V::SC_III
+Julius Caesar::ACT_V::SC_IV
+Julius Caesar::ACT_V::SC_V
+Macbeth::ACT_V::SC_VIII
+Macbeth::ACT_I::SC_I
+Macbeth::ACT_I::SC_II
+Macbeth::ACT_I::SC_III
+Macbeth::ACT_I::SC_IV
+Macbeth::ACT_I::SC_V
+Macbeth::ACT_I::SC_VI
+Macbeth::ACT_I::SC_VII
+Macbeth::ACT_II::SC_I
+Macbeth::ACT_II::SC_II
+Macbeth::ACT_II::SC_III
+Macbeth::ACT_II::SC_IV
+Macbeth::ACT_III::SC_I
+Macbeth::ACT_III::SC_II
+Macbeth::ACT_III::SC_III
+Macbeth::ACT_III::SC_IV
+Macbeth::ACT_III::SC_V
+Macbeth::ACT_III::SC_VI
+Macbeth::ACT_IV::SC_I
+Macbeth::ACT_IV::SC_II
+Macbeth::ACT_IV::SC_III
+Macbeth::ACT_V::SC_I
+Macbeth::ACT_V::SC_II
+Macbeth::ACT_V::SC_III
+Macbeth::ACT_V::SC_IV
+Macbeth::ACT_V::SC_V
+Macbeth::ACT_V::SC_VI
+Macbeth::ACT_V::SC_VII
+Macbeth::ACT_V::SC_VIII
+Romeo and Juliet::ACT_I::SC_I
+Romeo and Juliet::ACT_I::SC_II
+Romeo and Juliet::ACT_I::SC_III
+Romeo and Juliet::ACT_I::SC_IV
+Romeo and Juliet::ACT_I::SC_V
+Romeo and Juliet::ACT_II::SC_I
+Romeo and Juliet::ACT_II::SC_II
+Romeo and Juliet::ACT_II::SC_III
+Romeo and Juliet::ACT_II::SC_IV
+Romeo and Juliet::ACT_II::SC_V
+Romeo and Juliet::ACT_II::SC_VI
+Romeo and Juliet::ACT_III::SC_I
+Romeo and Juliet::ACT_III::SC_II
+Romeo and Juliet::ACT_III::SC_III
+Romeo and Juliet::ACT_III::SC_IV
+Romeo and Juliet::ACT_III::SC_V
+Romeo and Juliet::ACT_IV::SC_I
+Romeo and Juliet::ACT_IV::SC_II
+Romeo and Juliet::ACT_IV::SC_III
+Romeo and Juliet::ACT_IV::SC_IV
+Romeo and Juliet::ACT_IV::SC_V
+Romeo and Juliet::ACT_V::SC_I
+Romeo and Juliet::ACT_V::SC_II
+Romeo and Juliet::ACT_V::SC_III

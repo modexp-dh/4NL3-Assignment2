@@ -1,0 +1,208 @@
+A Midsummer Night's Dream::ACTUS_primus::SC_1
+A Midsummer Night's Dream::ACTUS_primus::SC_2
+A Midsummer Night's Dream::ACTUS_primus::SC_3
+A Midsummer Night's Dream::ACTUS_primus::SC_4
+A Midsummer Night's Dream::ACTUS_primus::SC_5
+A Midsummer Night's Dream::ACTUS_Secundus::SC_1
+A Midsummer Night's Dream::ACTUS_Secundus::SC_2
+A Midsummer Night's Dream::ACTUS_Secundus::SC_3
+A Midsummer Night's Dream::ACTUS_Secundus::SC_4
+A Midsummer Night's Dream::ACTUS_Secundus::SC_5
+A Midsummer Night's Dream::ACTUS_Secundus::SC_6
+A Midsummer Night's Dream::ACTUS_Secundus::SC_7
+A Midsummer Night's Dream::ACTUS_Secundus::SC_8
+A Midsummer Night's Dream::ACTUS_Secundus::SC_9
+A Midsummer Night's Dream::ACTUS_Secundus::SC_10
+A Midsummer Night's Dream::ACTUS_Secundus::SC_11
+A Midsummer Night's Dream::ACTUS_Secundus::SC_12
+A Midsummer Night's Dream::ACTUS_Secundus::SC_13
+A Midsummer Night's Dream::ACTUS_Secundus::SC_14
+A Midsummer Night's Dream::ACTUS_Secundus::SC_15
+A Midsummer Night's Dream::ACTUS_Tertius::SC_1
+A Midsummer Night's Dream::ACTUS_Tertius::SC_2
+A Midsummer Night's Dream::ACTUS_Tertius::SC_3
+A Midsummer Night's Dream::ACTUS_Tertius::SC_4
+A Midsummer Night's Dream::ACTUS_Tertius::SC_5
+A Midsummer Night's Dream::ACTUS_Tertius::SC_6
+A Midsummer Night's Dream::ACTUS_Tertius::SC_7
+A Midsummer Night's Dream::ACTUS_Tertius::SC_8
+A Midsummer Night's Dream::ACTUS_Tertius::SC_9
+A Midsummer Night's Dream::ACTUS_Tertius::SC_10
+A Midsummer Night's Dream::ACTUS_Tertius::SC_11
+A Midsummer Night's Dream::ACTUS_Tertius::SC_12
+A Midsummer Night's Dream::ACTUS_Tertius::SC_13
+A Midsummer Night's Dream::ACTUS_Tertius::SC_14
+A Midsummer Night's Dream::ACTUS_Tertius::SC_15
+A Midsummer Night's Dream::ACTUS_Tertius::SC_16
+A Midsummer Night's Dream::ACTUS_Tertius::SC_17
+A Midsummer Night's Dream::ACTUS_Tertius::SC_18
+A Midsummer Night's Dream::ACTUS_Tertius::SC_19
+A Midsummer Night's Dream::ACTUS_Tertius::SC_20
+A Midsummer Night's Dream::ACTUS_Tertius::SC_21
+A Midsummer Night's Dream::ACTUS_Tertius::SC_22
+A Midsummer Night's Dream::ACTUS_Tertius::SC_23
+A Midsummer Night's Dream::ACTUS_Tertius::SC_24
+A Midsummer Night's Dream::ACTUS_Tertius::SC_25
+A Midsummer Night's Dream::ACTUS_Tertius::SC_26
+A Midsummer Night's Dream::ACTUS_Quartus::SC_1
+A Midsummer Night's Dream::ACTUS_Quartus::SC_2
+A Midsummer Night's Dream::ACTUS_Quartus::SC_3
+A Midsummer Night's Dream::ACTUS_Quartus::SC_4
+A Midsummer Night's Dream::ACTUS_Quartus::SC_5
+A Midsummer Night's Dream::ACTUS_Quartus::SC_6
+A Midsummer Night's Dream::ACTUS_Quartus::SC_7
+A Midsummer Night's Dream::ACTUS_Quintus::SC_1
+A Midsummer Night's Dream::ACTUS_Quintus::SC_2
+A Midsummer Night's Dream::ACTUS_Quintus::SC_3
+A Midsummer Night's Dream::ACTUS_Quintus::SC_4
+A Midsummer Night's Dream::ACTUS_Quintus::SC_5
+A Midsummer Night's Dream::ACTUS_Quintus::SC_6
+A Midsummer Night's Dream::ACTUS_Quintus::SC_7
+A Midsummer Night's Dream::ACTUS_Quintus::SC_8
+A Midsummer Night's Dream::ACTUS_Quintus::SC_9
+A Midsummer Night's Dream::ACTUS_Quintus::SC_10
+A Midsummer Night's Dream::ACTUS_Quintus::SC_11
+A Midsummer Night's Dream::ACTUS_Quintus::SC_12
+All's Well That Ends Well::ACTUS_Secundus::SC_1
+All's Well That Ends Well::ACTUS_Secundus::SC_2
+All's Well That Ends Well::ACTUS_Secundus::SC_3
+All's Well That Ends Well::ACTUS_Secundus::SC_4
+All's Well That Ends Well::ACTUS_Secundus::SC_5
+All's Well That Ends Well::ACTUS_Secundus::SC_6
+All's Well That Ends Well::ACTUS_Secundus::SC_7
+All's Well That Ends Well::ACTUS_Secundus::SC_8
+All's Well That Ends Well::ACTUS_Secundus::SC_9
+All's Well That Ends Well::ACTUS_Secundus::SC_10
+All's Well That Ends Well::ACTUS_Secundus::SC_11
+All's Well That Ends Well::ACTUS_Secundus::SC_12
+All's Well That Ends Well::ACTUS_Secundus::SC_13
+All's Well That Ends Well::ACTUS_Secundus::SC_14
+All's Well That Ends Well::ACTUS_Secundus::SC_15
+All's Well That Ends Well::ACTUS_Secundus::SC_16
+All's Well That Ends Well::ACTUS_Tertius::SC_1
+All's Well That Ends Well::ACTUS_Tertius::SC_2
+All's Well That Ends Well::ACTUS_Tertius::SC_3
+All's Well That Ends Well::ACTUS_Tertius::SC_4
+All's Well That Ends Well::ACTUS_Tertius::SC_5
+All's Well That Ends Well::ACTUS_Tertius::SC_6
+All's Well That Ends Well::ACTUS_Tertius::SC_7
+All's Well That Ends Well::ACTUS_Tertius::SC_8
+All's Well That Ends Well::ACTUS_Tertius::SC_9
+All's Well That Ends Well::ACTUS_Tertius::SC_10
+All's Well That Ends Well::ACTUS_Tertius::SC_11
+All's Well That Ends Well::ACTUS_Tertius::SC_12
+All's Well That Ends Well::ACTUS_Quartus::SC_1
+All's Well That Ends Well::ACTUS_Quartus::SC_2
+All's Well That Ends Well::ACTUS_Quartus::SC_3
+All's Well That Ends Well::ACTUS_Quartus::SC_4
+All's Well That Ends Well::ACTUS_Quartus::SC_5
+All's Well That Ends Well::ACTUS_Quartus::SC_6
+All's Well That Ends Well::ACTUS_Quartus::SC_7
+All's Well That Ends Well::ACTUS_Quartus::SC_8
+All's Well That Ends Well::ACTUS_Quartus::SC_9
+All's Well That Ends Well::ACTUS_Quartus::SC_10
+All's Well That Ends Well::ACTUS_Quartus::SC_11
+All's Well That Ends Well::ACTUS_Quartus::SC_12
+All's Well That Ends Well::ACTUS_Quintus::SC_1
+All's Well That Ends Well::ACTUS_Quintus::SC_2
+All's Well That Ends Well::ACTUS_Quintus::SC_3
+All's Well That Ends Well::ACTUS_Quintus::SC_4
+All's Well That Ends Well::ACTUS_Quintus::SC_5
+All's Well That Ends Well::ACTUS_Quintus::SC_6
+All's Well That Ends Well::ACTUS_Quintus::SC_7
+All's Well That Ends Well::ACTUS_Quintus::SC_8
+All's Well That Ends Well::ACTUS_Quintus::SC_9
+All's Well That Ends Well::ACTUS_Quintus::SC_10
+As You Like It::ACT_V::SC_IV
+As You Like It::ACT_I::SC_I
+As You Like It::ACT_I::SC_II
+As You Like It::ACT_I::SC_III
+As You Like It::ACT_II::SC_I
+As You Like It::ACT_II::SC_II
+As You Like It::ACT_II::SC_III
+As You Like It::ACT_II::SC_IV
+As You Like It::ACT_II::SC_V
+As You Like It::ACT_II::SC_VI
+As You Like It::ACT_II::SC_VII
+As You Like It::ACT_III::SC_I
+As You Like It::ACT_III::SC_II
+As You Like It::ACT_III::SC_III
+As You Like It::ACT_III::SC_IV
+As You Like It::ACT_III::SC_V
+As You Like It::ACT_IV::SC_I
+As You Like It::ACT_IV::SC_II
+As You Like It::ACT_IV::SC_III
+As You Like It::ACT_V::SC_I
+As You Like It::ACT_V::SC_II
+As You Like It::ACT_V::SC_III
+As You Like It::ACT_V::SC_IV
+Taming of the Shrew::ACTUS_Quintus::SC_1
+Taming of the Shrew::ACTUS_Quintus::SC_2
+Taming of the Shrew::ACTUS_Quintus::SC_3
+Taming of the Shrew::ACTUS_Quintus::SC_4
+Taming of the Shrew::ACTUS_Quintus::SC_5
+Taming of the Shrew::ACTUS_Quintus::SC_6
+Taming of the Shrew::ACTUS_Quintus::SC_7
+The Comedy of Errors::ACT_UNK_ACT::SC_2
+The Comedy of Errors::ACT_UNK_ACT::SC_2
+The Comedy of Errors::ACT_UNK_ACT::SC_2
+The Comedy of Errors::ACT_UNK_ACT::SC_2
+The Comedy of Errors::ACT_UNK_ACT::SC_3
+The Comedy of Errors::ACT_UNK_ACT::SC_4
+The Merchant of Venice::ACTUS_primus::SC_1
+The Merchant of Venice::ACTUS_primus::SC_2
+The Merchant of Venice::ACTUS_primus::SC_3
+The Merchant of Venice::ACTUS_primus::SC_4
+The Merchant of Venice::ACTUS_primus::SC_5
+The Merchant of Venice::ACTUS_primus::SC_6
+The Merchant of Venice::ACTUS_primus::SC_7
+The Merchant of Venice::ACTUS_primus::SC_8
+The Merchant of Venice::ACTUS_Secundus::SC_1
+The Merchant of Venice::ACTUS_Secundus::SC_2
+The Merchant of Venice::ACTUS_Secundus::SC_3
+The Merchant of Venice::ACTUS_Secundus::SC_4
+The Merchant of Venice::ACTUS_Secundus::SC_5
+The Merchant of Venice::ACTUS_Secundus::SC_6
+The Merchant of Venice::ACTUS_Secundus::SC_7
+The Merchant of Venice::ACTUS_Secundus::SC_8
+The Merchant of Venice::ACTUS_Secundus::SC_9
+The Merchant of Venice::ACTUS_Secundus::SC_10
+The Merchant of Venice::ACTUS_Secundus::SC_11
+The Merchant of Venice::ACTUS_Secundus::SC_12
+The Merchant of Venice::ACTUS_Secundus::SC_13
+The Merchant of Venice::ACTUS_Secundus::SC_14
+The Merchant of Venice::ACTUS_Secundus::SC_15
+The Merchant of Venice::ACTUS_Secundus::SC_16
+The Merchant of Venice::ACTUS_Secundus::SC_17
+The Merchant of Venice::ACTUS_Secundus::SC_18
+The Merchant of Venice::ACTUS_Secundus::SC_19
+The Merchant of Venice::ACTUS_Secundus::SC_20
+The Merchant of Venice::ACTUS_Secundus::SC_21
+The Merchant of Venice::ACTUS_Secundus::SC_22
+The Merchant of Venice::ACTUS_Secundus::SC_23
+The Merchant of Venice::ACTUS_Secundus::SC_24
+The Merchant of Venice::ACTUS_Secundus::SC_25
+The Merchant of Venice::ACTUS_Secundus::SC_26
+The Merchant of Venice::ACTUS_Secundus::SC_27
+The Merchant of Venice::ACTUS_Tertius::SC_1
+The Merchant of Venice::ACTUS_Tertius::SC_2
+The Merchant of Venice::ACTUS_Tertius::SC_3
+The Merchant of Venice::ACTUS_Tertius::SC_4
+The Merchant of Venice::ACTUS_Tertius::SC_5
+The Merchant of Venice::ACTUS_Tertius::SC_6
+The Merchant of Venice::ACTUS_Tertius::SC_7
+The Merchant of Venice::ACTUS_Tertius::SC_8
+The Merchant of Venice::ACTUS_Tertius::SC_9
+The Merchant of Venice::ACTUS_Tertius::SC_10
+The Merchant of Venice::ACTUS_Quartus::SC_1
+The Merchant of Venice::ACTUS_Quartus::SC_2
+The Merchant of Venice::ACTUS_Quartus::SC_3
+The Merchant of Venice::ACTUS_Quartus::SC_4
+The Merchant of Venice::ACTUS_Quartus::SC_5
+The Merchant of Venice::ACTUS_Quartus::SC_6
+The Merchant of Venice::ACTUS_Quartus::SC_7
+The Merchant of Venice::ACTUS_Quintus::SC_1
+The Merchant of Venice::ACTUS_Quintus::SC_2
+The Merchant of Venice::ACTUS_Quintus::SC_3
+The Merchant of Venice::ACTUS_Quintus::SC_4
+The Merchant of Venice::ACTUS_Quintus::SC_5
