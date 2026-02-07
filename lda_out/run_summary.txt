@@ -1,0 +1,8 @@
+matrix=merged\bow_scenes_csr.npz
+vocab=merged\vocab.txt
+doc_ids=merged\doc_ids.txt
+num_docs=361
+vocab_size=16216
+num_topics=15
+passes=10
+random_state=42
